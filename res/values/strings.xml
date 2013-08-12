@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">RandomApp Beta</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Title Screen</string>
+    <string name="welcome_screen">Welcome to your first app!</string>
+    <string name="title_sliders_game">Sliders Game</string>
+    <string name="game_one">Sliders Game</string><string name="game_two">Buttons Game</string>
+    
+    <string name="game_three">Date Game</string>
+    <string name="game_four">Line Game</string>
+    <string name="sub_menu">More Options</string>
+    <string name="splash">Hello World.</string>
+
+</resources>
